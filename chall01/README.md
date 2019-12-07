@@ -10,6 +10,6 @@ For a mass of 100756, the fuel required is 33583.
 
 ## Input
 Large [input](https://adventofcode.com/2019/day/1/input)
-backed up at [input](input.txt)
+backed up at [input](src/input.txt)
 
 
