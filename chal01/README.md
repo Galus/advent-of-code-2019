@@ -12,4 +12,10 @@ For a mass of 100756, the fuel required is 33583.
 Large [input](https://adventofcode.com/2019/day/1/input)
 backed up at [input](input.txt)
 
+```
+Opening input.txt
+Total fuel: 3382284
+```
+
+That's the right answer! You are one gold star closer to rescuing Santa. [Continue to Part Two]
 
