@@ -1,3 +1,21 @@
+# Challenge 2
+Building Intcode compiler 
+
+## Int codes
+```
+1   add         operand1ref, operand2ref, outputref
+2   multiply    operand1ref, operand2ref, outputref
+99  exit
+```
+
+## Example scenario
+Input: `1,10,20,30` means add the values at positions 10 and 20 and store the result of the addition into position 30.
+
+Input: `1,10,20,30,2,10,30,30` means 
+add the values at 10 and 20 and store in 30
+multiply the values at 10 and 30 and store in 30
+so, after reading an opcode, u skip 4 positions to the next opcode.
+
 ```
 Advent of Code[About][Events][Shop][Settings][Log Out]Galus 2*
       /^2019$/[Calendar][AoC++][Sponsors][Leaderboard][Stats]
